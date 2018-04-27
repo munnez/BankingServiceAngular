@@ -25,7 +25,7 @@
     "@angular/router": "^5.2.0",
     "@angular2-material/toolbar": "^2.0.0-alpha.8-3",
     "@material/card": "^0.35.0",
-    "angular-material": "^1.1.8",
+    "bootstrap": "^4.1.0",
     "core-js": "^2.4.1",
     "mat-sidenav-menu": "^0.7.0",
     "rxjs": "^5.5.6",

@@ -1,0 +1,11 @@
+<div class="sidebar">
+  <img src="assets/logo.png" class="logo">
+  <nav>
+    <ul>
+      <li [routerLink]="['/cars']" [routerLinkActive]="'active'">Clients</li>
+      <li>item 1</li>
+      <li>item 2</li>
+      <li (click)="logOut()">LOGOUT</li>
+    </ul>
+  </nav>
+</div>
